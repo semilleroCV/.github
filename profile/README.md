@@ -1,7 +1,7 @@
 # Welcome to Hands-on Computer Vision 👋
 
 <p align="center">
-  <img src="logo.png" alt="Descripción alternativa de la imagen"  width="800" height="300">
+  <img src="../logo.png" alt="Descripción alternativa de la imagen"  width="300" height="200">
 </p>
 
 ## 🚀 About Us
