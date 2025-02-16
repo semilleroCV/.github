@@ -8,10 +8,10 @@
 At **Hands-on Computer Vision**, we're a passionate group of students and researchers from UIS, dedicated to exploring the cutting-edge of computer vision technology. Our journey is a blend of theory and practice, diving deep into topics like computational photography, deep learning, thermal imaging, spectral images, and depth estimation. Our mission is to advance the field of computer vision by creating innovative solutions and sharing our knowledge with the community.
 
 ## 📅 Schedule
-Our sessions run every Monday from 4:00 p.m. to 6:00 p.m, starting March 4th, 2024.
+Our sessions run every Monday from 4:00 p.m. to 6:00 p.m, starting March 3th, 2025.
 
 ## 🙌 Join Us
-Ready to dive into the exciting world of computer vision? [Sign up]([registration_link](https://semillerocv.github.io/)) and start your journey with us on March 4th, 2024. *Deadline for registration: March 1st, 2024.*
+Ready to dive into the exciting world of computer vision? [Sign up]([registration_link](https://semillerocv.github.io/)) and start your journey with us on March 3th, 2025. *Deadline for registration: February 28, 2024.*
 
 ## 📬 Contact Us
 For inquiries, please contact us at handsoncvs@gmail.com.
