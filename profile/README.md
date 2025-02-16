@@ -11,7 +11,7 @@ At **Hands-on Computer Vision**, we're a passionate group of students and resear
 Our sessions run every Monday from 4:00 p.m. to 6:00 p.m, starting March 3th, 2025.
 
 ## 🙌 Join Us
-Ready to dive into the exciting world of computer vision? [Sign up]([registration_link](https://semillerocv.github.io/)) and start your journey with us on March 3th, 2025. *Deadline for registration: February 28, 2024.*
+Ready to dive into the exciting world of computer vision? [Sign up]([registration_link](https://semillerocv.github.io/)) and start your journey with us on March 3th, 2025. *Deadline for registration: February 28, 2025.*
 
 ## 📬 Contact Us
 For inquiries, please contact us at handsoncvs@gmail.com.
